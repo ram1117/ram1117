@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ram1117
-- 👀 I’m interested in Web developement
-- 🌱 I’m currently learning full stack web developement
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-ram1117/ram1117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Web Designer](https://user-images.githubusercontent.com/116718155/214018250-6740c9e9-28c8-47f0-b960-364adfd0a656.gif)
+
+
+:adult: Hi, I’m Ram Kumar Karuppusamy \
+:hearts:I’m interested in full stack web developement \
+:computer: I’m currently learning full stack web developement @ [Microverse](https://github.com/microverseinc) \
+:mailbox: You can reach me @[Linkedin](www.linkedin.com/in/ram-kumar-karuppusamy-3bb95a73)   @[Twitter](https://twitter.com/ram_karuppusamy) \
+
