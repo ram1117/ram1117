@@ -7,5 +7,5 @@
 :computer: I’m currently learning full stack web developement @ [Microverse](https://github.com/microverseinc) \
 :mailbox: You can reach me @[Linkedin](www.linkedin.com/in/ram-kumar-karuppusamy-3bb95a73)   @[Twitter](https://twitter.com/ram_karuppusamy) 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ram1117&show_icons=true&theme=dark)](https://github.com/ram1117/github-readme-stats) \
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ram1117&show_icons=true&theme=dark)](https://github.com/ram1117/github-readme-stats) 
 
