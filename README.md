@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<!-- ![Web Designer](https://user-images.githubusercontent.com/116718155/214018250-6740c9e9-28c8-47f0-b960-364adfd0a656.gif) -->
-  
-  ![city-sleeps](https://user-images.githubusercontent.com/116718155/224104233-cab25562-c1f8-47fd-ac5f-05ac48253c82.png)
+![Blue Modern Technology LinkedIn Banner(1)](https://github.com/ram1117/ram1117/assets/116718155/498632a0-bc06-41c2-b1a9-84892ed4938e)
 
 
 </div>
