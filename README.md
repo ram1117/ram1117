@@ -10,7 +10,6 @@
   
 :adult: Hi, I’m Ram Kumar Karuppusamy. \
 :hearts: I’m interested in full-stack web development. \
-:computer: I’m currently learning full-stack web development @ [Microverse](https://github.com/microverseinc). \
 :mailbox: You can reach me @[Linkedin](www.linkedin.com/in/ram-kumar-karuppusamy-3bb95a73)   @[Twitter](https://twitter.com/ram_karuppusamy) @[Portfolio](https://portfolio-ramkumark.vercel.app/).
   
 </div>
