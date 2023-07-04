@@ -9,7 +9,8 @@
 <div align="center"> 
   
 :adult: Hi, I’m Ram Kumar Karuppusamy. \
-:hearts: I’m interested in full-stack web development. \
+:hearts: I’m interested in Full-stack web development. \
+💻 I specialize in JavaScript, TypeScript, React, Ruby on Rails, PostgreSQL. \
 :mailbox: You can reach me @[Linkedin](www.linkedin.com/in/ram-kumar-karuppusamy-3bb95a73)   @[Twitter](https://twitter.com/ram_karuppusamy) @[Portfolio](https://portfolio-ramkumark.vercel.app/).
   
 </div>
